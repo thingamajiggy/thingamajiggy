@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Who Is thingmajiggy? :mag:
+## Who Is thingamajiggy? :mag:
 
 :four_leaf_clover: **A Graduate Developer** who needs a chance to **start a new career as a Junior Developer!** :four_leaf_clover:
 
